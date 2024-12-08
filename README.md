@@ -176,6 +176,16 @@
         <td>Relaxing + Puzzle</td>
         <td>https://kbhgames.com/game/one-hand-clapping</td>
     </tr>
+    <tr>
+        <td>Goat Simulator Remastered</td>
+        <td>Simulation</td>
+        <td>https://steamrip.com/goat-simulator-remastered-free-download/</td>
+    </tr>
+    <tr>
+        <td>Indiana Jones and the Great Circus</td>
+        <td>Adventure</td>
+        <td>https://steamrip.com/indiana-jones-and-the-great-circle-free-download/</td>
+    </tr>
 </table>
 <h3>Simulation</h3>
 <table>
