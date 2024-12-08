@@ -94,6 +94,11 @@
 	</tr>
 	<!-- Content -->
     <tr>
+        <td>Mindcop</td>
+        <td>Time Puzzle</td>
+        <td>https://steamunlocked.net/mindcop-free-download/</td>
+    </tr>
+    <tr>
         <td>Suicide Guy</td>
         <td>Action + Puzzle</td>
         <td>https://steamrip.com/suicide-guy-free-download/</td>
