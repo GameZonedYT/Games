@@ -191,6 +191,16 @@
         <td>Action + Adventure</td>
         <td>https://steamunlocked.net/7a6d6-the-saboteur-free-download/</td>
     </tr>
+    <tr>
+        <td>Mafia 1: Definitive Edition</td>
+        <td>Action + Adventure</td>
+        <td>https://steamunlocked.net/75d184-mafia-definitive-edition-free-v2-download/</td>
+    </tr>
+    <tr>
+        <td>Mafia 2: Definitive Edition</td>
+        <td>Action + Adventure</td>
+        <td>https://steamunlocked.net/068321-mafia-2-definitive-edition-free-v1-download/</td>
+    </tr>
 </table>
 <h3>Simulation</h3>
 <table>
