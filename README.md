@@ -186,6 +186,11 @@
         <td>Adventure</td>
         <td>https://steamrip.com/indiana-jones-and-the-great-circle-free-download/</td>
     </tr>
+    <tr>
+        <td>The Saboteur</td>
+        <td>Action + Adventure</td>
+        <td>https://steamunlocked.net/7a6d6-the-saboteur-free-download/</td>
+    </tr>
 </table>
 <h3>Simulation</h3>
 <table>
