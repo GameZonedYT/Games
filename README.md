@@ -55,6 +55,11 @@
         <td>https://steamunlocked.net/1f2912-my-child-lebensborn-remastered-free-download/</td>
 	</tr>
     <tr>
+        <td>Nocturnals</td>
+        <td>Adventure + Choices</td>
+        <td>https://steamrip.com/nocturnals-free-download/</td>
+    </tr>
+    <tr>
         <td>Lucky Tower Ultimate</td>
         <td>Roguelite Adventure</td>
         <td>https://steamunlocked.net/lucky-tower-ultimate-free-download/</td>
